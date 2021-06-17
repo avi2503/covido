@@ -18,10 +18,6 @@ body{
 	color: tomato;
 }
 
-#carousel{
-    margin: 3rem;
-}
-
 #content{
     padding-top: 5rem;
     text-align: center;
@@ -51,6 +47,14 @@ h4{
     color: white;
 }
 
+#carousel{
+    margin: 3rem;
+}
+
+.slide{
+    width: 80%;
+    height: 200px;
+}
 #bottomNavbar{
     padding-bottom: 0%;
     font-size: 2rem;
