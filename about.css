@@ -14,13 +14,25 @@ body{
 	font-weight: 500;
 }
 
-.content p{
+#carousel{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.content{
     text-align: left;
     padding-top: 25%;
-    font-weight: 100;
-	font-size: 1.5rem;
     color: white;
-	line-height: 2;
+}
+
+h1{
+	font-weight: 800;
+	font-size: 6em;
+}
+
+h4{
+    font-weight: 500;
+    font-size: 3rem;
 }
 
 #mainNavbar li a:hover {
