@@ -37,7 +37,11 @@ hr {
 }
 
 #content1{
-    text-align: left;
+    text-align: justify;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 10%;
+    margin-right: 10%;
     color: white;
 }
 
