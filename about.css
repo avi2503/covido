@@ -23,6 +23,7 @@ body{
 }
 
 #content{
+    padding-top: 5rem;
     text-align: left;
     color: white;
 }
@@ -32,15 +33,22 @@ h1{
 	font-size: 2em;
 }
 
-h4{
-    font-weight: 500;
-    font-size: 1rem;
-}
-
-#content hr {
+hr {
+    text-align: left;
     width: 400px;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#content1{
+    text-align: left;
+    color: white;
+    padding-bottom: 5rem;
+}
+
+h4{
+    font-weight: 500;
+    font-size: 1rem;
 }
 
 .fab{
