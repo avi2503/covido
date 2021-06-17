@@ -27,7 +27,7 @@ body{
 
 #content{
     text-align: left;
-    padding-top: 25%;
+    padding-top: 15%;
     color: white;
 }
 
@@ -37,12 +37,14 @@ h1{
 }
 
 h4{
+    width: 80%;
     font-weight: 500;
     font-size: 1rem;
 }
 
 hr {
-    width: 100%;
+    width: 80%;
+    margin: auto 3rem;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
