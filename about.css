@@ -20,6 +20,7 @@ body{
 
 #carousel{
     margin: 3rem;
+    padding: 10%;
 }
 
 #content{
@@ -52,8 +53,13 @@ h4{
     color: white;
 }
 
+#bottomNavbar{
+    padding-bottom: 0%;
+}
+
 .fab{
     font-size: 2rem;
     font-weight: 100;
     color: whitesmoke;
 }
+
