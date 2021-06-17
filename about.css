@@ -37,7 +37,7 @@ hr {
 }
 
 #content1{
-    text-align: justify;
+    text-align: left;
     margin-top: 3rem;
     margin-bottom: 3rem;
     margin-left: 10%;
@@ -48,6 +48,10 @@ hr {
 h4{
     font-weight: 500;
     font-size: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 10%;
+    margin-right: 10%;
     color: white;
 }
 
