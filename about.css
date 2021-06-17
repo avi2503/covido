@@ -59,10 +59,6 @@ h4{
     height: 500px;
 }
 
-.carousel-inner{
-    width: 100%;
-    max-height: 250px;
-}
 #bottomNavbar{
     padding-bottom: 0%;
     font-size: 2rem;
