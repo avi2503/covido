@@ -22,7 +22,7 @@ body{
     margin-left: 3rem;
     margin-right: 3rem;
     margin-bottom: auto;
-    margin-top: 3rem;
+    margin-top: 5rem;
 }
 
 #content{
@@ -31,7 +31,6 @@ body{
     color: white;
 }
 #top {
-	width: 400px;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
@@ -53,7 +52,6 @@ hr {
 }
 
 #bottom {
-	width: 400px;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
