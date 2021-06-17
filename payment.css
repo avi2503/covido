@@ -48,6 +48,10 @@ hr {
 	padding-bottom: 0%;
 }
 
+#bottomNavbar li a:hover{
+	color: tomato;
+}
+
 .fab{
     font-size: 2rem;
     font-weight: 100;
