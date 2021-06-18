@@ -9,6 +9,7 @@ body{
 	background-attachment: fixed;
     font-family: 'Work Sans', sans-serif;
 }
+
 #mainNavbar{
     font-size: 1.5rem;
 	font-weight: 500;
@@ -53,11 +54,8 @@ h4{
     height: 400px;
 }
 
-
-
 .fab{
     font-size: 2rem;
     font-weight: 100;
     color: whitesmoke;
 }
-
