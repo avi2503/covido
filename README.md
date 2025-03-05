@@ -20,4 +20,4 @@ Website Link: https://avi2503.github.io/covido/
 
 Youtube Link: https://youtu.be/LnuuWAYIWY4
 
-Contact: https:https://www.linkedin.com/in/avi-sinha-487394187
+Contact: https://www.linkedin.com/in/avi-sinha-487394187
